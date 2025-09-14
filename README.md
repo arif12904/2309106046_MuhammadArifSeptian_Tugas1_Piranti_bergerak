@@ -15,8 +15,8 @@ Tampilan aplikasi:
 
 
 <p float="left">
-  <img src="assets/profil2.jpg" width="300"/>
-  <img src="assets/screenshots/profil1.jpg" width="300"/>
+  <img src="assets/screenshots/profil2.jpg" width="300"/>
+  <img src="assets/screenshots/profll1.jpg" width="300"/>
 </p>
 
 
