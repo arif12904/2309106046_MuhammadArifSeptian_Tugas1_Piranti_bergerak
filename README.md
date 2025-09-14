@@ -14,8 +14,8 @@ Aplikasi Flutter sederhana untuk menampilkan profil saya dengan tampilan modern.
 Tampilan aplikasi:
 
 
-![Screenshot Home](screenshots/profil1.jpg)  
-![Screenshot Badge](screenshots/profil2.jpg)
+![Screenshot Home](assets/screenshots/profil1.jpg)  
+![Screenshot Badge](assets/screenshots/profil2.jpg)
 
 
 ---
